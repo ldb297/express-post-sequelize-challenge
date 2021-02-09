@@ -1,0 +1,28 @@
+{
+  "name": "express-post-sequelize-challenge",
+  "version": "1.0.0",
+  "description": "performing a few express app tasks within an allotted time frame for extra practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldb297/express-post-sequelize-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldb297/express-post-sequelize-challenge/issues"
+  },
+  "homepage": "https://github.com/ldb297/express-post-sequelize-challenge#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
